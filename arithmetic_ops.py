@@ -40,7 +40,7 @@ print(counter)
 # -------- PEMDAS -------- 
 # Paréntesis
 # Exponenciación
-# Matemáticas
+# Multiplicación
 # División
 # Adición
 # Sustracción
