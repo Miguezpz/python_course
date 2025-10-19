@@ -10,7 +10,7 @@ print('Addition: ', a + b)
 print('Subtraction: ', a - b)
 
 # Division
-print('Division: ', a / b)
+print('Division: ', a / b) # It returns a float value
 
 # Multiplication
 print('Multiplication: ', a * b)
